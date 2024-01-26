@@ -1,2 +1,2 @@
 # TestRepo
-Repository used for tests and training purposes
+Repository used for tests and training purposes.
