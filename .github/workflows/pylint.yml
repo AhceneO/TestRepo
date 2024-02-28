@@ -3,6 +3,7 @@ name: Pylint
 on: [push]
 
 jobs:
+  Echo: echo "hello"
   build:
     runs-on: ubuntu-latest
     strategy:
