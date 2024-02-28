@@ -2,5 +2,5 @@ def hellow (name):
   x=name
   print (f"Hello, world! from {x}")
 
-hellow("Ahcene")
-print("helloooooooooooo")
+y=input("Your name: ")
+hellow(y)
